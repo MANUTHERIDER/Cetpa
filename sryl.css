@@ -1,0 +1,123 @@
+/* .img3 {
+    width: 200px;
+    height: 257px;
+}
+
+.img2 {
+    width: 250px;
+    height: 200px;
+}
+
+.img4 {
+    width: 200px;
+    height: 250px;
+}
+
+.imgr1c2 {
+    width: 459px;
+    height: 258px;
+}
+
+.imgr2c1 {
+    width: 458px;
+    height: 200px;
+}
+
+.imgr2c2 {
+    width: 457px;
+    height: 204px;
+}
+
+table {
+    text-align: center;
+    align-self: center;
+    align-content: center;
+}
+
+
+/* div {
+    width: 250px;
+    height: 300px;
+} */
+
+
+/* .hi {
+    font-size: 45px;
+    font-family: cursive;
+    margin: 0;
+    color: lightskyblue;
+}
+
+td {
+    border: 5px double lightskyblue;
+    border-collapse: collapse;
+    text-align: center;
+    align-content: center;
+}
+
+.delhi {
+    color: red;
+    font-family: cursive;
+}
+
+#tab {
+    border: 15px double;
+    align-items: center;
+    background-color: #ffefd3;
+    font-size: 16px;
+}  */
+
+
+/* Galley with Div*/
+
+body {
+    margin: 0 15%;
+    align-items: center;
+}
+
+.insimg {
+    display: inline-flex;
+    background-color: maroon;
+}
+
+.siez {
+    padding: 8px;
+    margin: 5px;
+    border: 1.7px double lightsalmon;
+}
+
+.siez4 {
+    width: 243.8px;
+    height: 350px;
+}
+
+.siez3 {
+    width: 335px;
+    height: 350px;
+}
+
+.heading {
+    font-size: 45px;
+    text-align: center;
+    color: mediumvioletred;
+    font-family: cursive;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+.new {
+    font-size: 45px;
+    text-align: center;
+    font-weight: 900;
+    width: 1093px;
+    height: inherit;
+    transition: font-size 5s;
+}
+
+.new:hover {
+    color: lawngreen;
+    font-size: 25px;
+}
+
+
+/*######################################################  */
