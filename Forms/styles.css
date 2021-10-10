@@ -1,0 +1,85 @@
+/* form 1 */
+
+
+/* body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+
+table {
+    color: midnightblue;
+    width: 40%;
+}
+
+h3 {
+    font-size: 22px;
+} 
+
+***************************
+*/
+
+
+/* form 2 */
+
+body {
+    background-image: url(/images/2293320.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 100% 900px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+
+table {
+    /* background-color: inherit; */
+    color: #c9c9c9;
+    border-collapse: collapse;
+    float: left;
+    margin-left: 8%;
+    margin-top: 15%;
+    opacity: .8;
+}
+
+input,
+select {
+    border-radius: 5px;
+    border-color: maroon;
+    box-shadow: lightsteelblue 0 5px 3px 0;
+    margin-bottom: 10px;
+}
+
+d {
+    margin-top: 50px;
+}
+
+td {
+    font-size: 16px;
+    font-weight: 800;
+    font-style: oblique;
+    font-size: 18px;
+}
+
+
+/* wihe {
+    width: 95%;
+    height: 30px;
+} */
+
+option {
+    background-color: mediumslateblue;
+    padding: 3px;
+}
+
+.exp-details {
+    margin-top: 1000px;
+}
+
+.heading {
+    font-size: 28px;
+    padding: 5px;
+    margin: 10px;
+    color: #c9c9c9;
+}
+
+
+/* End of Form 2 */
